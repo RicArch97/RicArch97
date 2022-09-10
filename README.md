@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ricardo Steijn, Also known as @RicArch97, currently 24 year old computer science student at Hogeschool Rotterdam in The Netherlands. 
+- 👋 Hi, I’m Ricardo Steijn, Also known as @RicArch97, currently 25 year old computer science student at Hogeschool Rotterdam in The Netherlands. 
 - 👀 I’m interested in Home automation, such as [Crownstone](https://github.com/crownstone) and [Home Assistant](https://github.com/home-assistant/core).
 I have a passion for linux, and I'm really interested in the current development of the Wayland display manager protocol, which is the future of Linux desktops. 
 - 🌱 I’m currently learning C and C++ mostly, as I've mostly done small projects using the language but there still a lot for me to learn.
