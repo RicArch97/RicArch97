@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ricardo Steijn, Also known as @RicArch97, currently 25 year old and have studied computer science.
-- 👀 I’m interested in firmware development, Internet of Things and Linux.
+- 👀 I’m interested in firmware development (Embedded), Internet of Things and Linux.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ricardo-steijn-38319b177)
 
 <!---
